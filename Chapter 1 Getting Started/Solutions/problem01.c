@@ -7,6 +7,7 @@ int main() {
     printf("2    2\n");
     printf("222222\n");
     
-
     return 0;
 }
+
+
